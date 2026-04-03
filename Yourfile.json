@@ -16,6 +16,11 @@
         "key": "20205",
         "expirydate": "5-4-2026",
         "Allowoffline": false
+    },{
+        "device_id": "f5dbd4e19148585b",
+        "key": "ribbi",
+        "expirydate": "5-4-2026",
+        "Allowoffline": false
     }
     
 ]
